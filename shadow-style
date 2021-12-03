@@ -1,0 +1,19 @@
+backgroundColor: '#FFF',
+
+borderColor: '#000',
+
+shadowColor: "#000",
+
+shadowOffset: {
+
+  width: 1,
+
+  height: 1,
+
+},
+
+shadowOpacity: 1,
+
+shadowRadius: 1,
+
+elevation: 5,
